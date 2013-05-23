@@ -1,9 +1,29 @@
 
 body {
-	
+	background: url('../img/lghtmesh.png');
 }
 
-
 .wrapper {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	height: 100%;
+	max-height: 2000px;
+}
 
+.box {
+	width: 130px;
+	height: 130px;
+	margin: 10px;
+	float: left;
+	background: blue
+}
+
+.imgwrapper{
+	width: 100%;
+	max-width: 400px;
+}
+
+#specialbox {
+	background: green;
 }

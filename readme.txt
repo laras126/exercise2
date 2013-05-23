@@ -20,6 +20,8 @@ Level 1
 5. Add a comment
 6. Commit your changes with Git
 
+DONEZO...BITCHES.
+
 
 
 Level 2
